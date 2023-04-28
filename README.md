@@ -1,2 +1,3 @@
-# Kaggle-Competetion
-Histopathologic-cancer-detection kaggle project
+# Kaggle-Competition
+A note book on creating a model for classication of metastatic tissues using data available from Kaggle
+More information on the competetion available at https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview
